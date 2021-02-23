@@ -6,7 +6,7 @@ lp3_freq=
 ddr4_freq=
 lp4_freq=
 
-uart id=
+uart id=0xf
 uart iomux=
 uart baudrate=
 
